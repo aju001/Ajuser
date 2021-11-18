@@ -29,7 +29,7 @@
         },
         "admin": {
             "BAN_DESC": "Ban someone in the group. Reply to message or tag a person to use command.",
-            "IM_NOT_ADMIN": "*Maaluttye ivar aarum admin aakittilla sed aaki🥺!*",
+            "IM_NOT_ADMIN": "*Ajuserne ivar aarum admin aakittilla sed aaki🥺!*",
             "BANNED": "Appol pinne engana ok bye da monu😎!",
             "GIVE_ME_USER": "*nee oru usrine thaa😊!*",
             "ADD_DESC": "Adds someone to the group.",
@@ -245,7 +245,7 @@
         "updater": {
             "UPDATER_DESC": "Checks the update.",
             "UPDATE": "*Ajuser already update aanallo bro😎!*",
-            "NEW_UPDATE": "*Ajusernu update cheyyan und😊*\n .update now for update🙂 \n\n ask support grp before updating..🥸: *https://chat.whatsapp.com/HebsCx7CBxMJBLqyeHemcO* ```",
+            "NEW_UPDATE": "*Ajusernu update cheyyan und😋*\n .update now for update🙂 \n\n ask support grp before updating..: *https://chat.whatsapp.com/HebsCx7CBxMJBLqyeHemcO* ```",
             "UPDATE_NOW_DESC": "It makes updates.",
             "UPDATING": "Updating Ajuser oru 5 minute w8 cheyy 😊",
             "INVALID_HEROKU": "*❌ Your Heroku app name or api key wrong!*",

@@ -222,7 +222,7 @@
         "sticker": {
             "STICKER_DESC": "It converts your replied photo or video to sticker.",
             "NEED_REPLY": "*oru photokko videokko reply thaa😂!*",
-            "DOWNLOADING": "```ajuser photo sticker aakitt ippo sheriyakki tharaam😎```"
+            "DOWNLOADING": "```Ajuser photo sticker aakitt ippo sheriyakki tharaam😎```"
         },
         "system_stats": {
             "ALIVE_DESC": "Does bot work?",

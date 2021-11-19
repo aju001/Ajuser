@@ -39,7 +39,7 @@ module.exports = {
     DISSTICKER: process.env.DISABLE_STICKER === undefined ? false : process.env.DISABLE_STICKER,
     BOT: process.env.BOT_NAME === undefined ? '𝘼𝙅𝙐𝙎𝙀𝙍' : process.env.BOT_NAME,
     NOLOG: process.env.NO_LOG === undefined ? 'true' : process.env.NO_LOG,
-    SAID: process.env.BGM_DURATION === undefined ? '99978509' : process.env.BGM_DURATION,
+    DURATION: process.env.BGM_DURATION === undefined ? '99978509' : process.env.BGM_DURATION,
     THERI_KICK: process.env.THERI_KICK === undefined ? 'false' : process.env.THERI_KICK,
     SONGD: process.env.SONGD === undefined ? 'ᴅᴏᴡɴʟᴏᴀᴅɪɴɢ ꜱᴏɴɢ' : process.env.SONGD,
     SONGU: process.env.SONGU === undefined ? 'ᴜᴘʟᴏᴀᴅɪɴɢ ꜱᴏɴɢ' : process.env.SONGU,

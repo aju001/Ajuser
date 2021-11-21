@@ -6,7 +6,11 @@
 
 <div align="center">
   <a href="https://ibb.co/4wyvT9j"><img src="https://i.ibb.co/Y2mXdR5/ajuser.jpg""width="170" height="170"/>
-  <p align="center">
+    <p align="center">
+    
+    
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=000EF7&lines=Welcome+to+Ajuser+WA+Bot...;Created+by+Aju....;This+is+a+Bgm+stickerbot...;With+more+features...)](https://git.io/typing-svg)
+  
 <a href="#"><img title="Ajuser_v2" src="https://img.shields.io/badge/-Ajuser-blue?&style=for-the-badge"></a>
 </p>
   </p>
@@ -75,8 +79,12 @@ the user is responsible.
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/aju001/Ajuser)
      </div>
-<br>
-<br >
+     [![Run on Repl.it](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)](https://bit.ly/2XqQKMU)
+ 
+ <div align="left">
+    
+
+
 If Repl.it not working Try Termux for Qr scanning.Just Copy the Link Below in Termux
 ```
 bash <(curl -L https://t.ly/tHxh)
@@ -106,9 +114,11 @@ $ node qr.js
 $ node bot.js
 ```
 # 📢 Guide
+<div align="center">
 Click WA logo to Join Support Group 👇
     <br>
 <br>
+
 <a href="https://chat.whatsapp.com/HebsCx7CBxMJBLqyeHemcO"><img title="join support" src="https://img.shields.io/badge/join_support-afnanplk/pinkymwol?color=black&style=for-the-badge&logo=whatsapp"></a>
   <div align="center">
 

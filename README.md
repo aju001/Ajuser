@@ -52,8 +52,14 @@ Project created by <a href="https://github.com/aju001">aju</a> to make it public
 <p align="center">
 
 <a href="https://youtu.be/MPoRRTkjuW0" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Logo_of_YouTube_%282015-2017%29.svg/1200px-Logo_of_YouTube_%282015-2017%29.svg.png" height="45" width="90" /></a>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aju001&show_icons=true&theme=dark&locale=en" alt="aju" /></p>
+    
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aju001&theme=dark" alt="aju" /></p>
+</p>
+    
 ```
-  
+    
 Ajuser Userbot is Open Source software open to development. 
 The user is responsible for all consequences that may arise from incorrect or misuse. 
 Since it is an open source project, anyone can copy the software, add and remove,

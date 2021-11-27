@@ -8,7 +8,7 @@
     "success_url": "https://github.com/aju001/Ajuser",
     "stack": "container",
     "env": {
-        "JULIE_SESSION": {
+        "AJU_SESSION": {
             "description": "Type here yours Asena Session.",
             "required": true
         },

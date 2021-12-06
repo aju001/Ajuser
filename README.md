@@ -72,7 +72,7 @@ for the work done with the programs that are installed later, WhatsAsena
 is not responsible for the usage purpose and method of the users.
 Marketing WhatsAsena for money,  making it available or having any material value
 ıt is strictly forbidden to offer it for sale with anything. All legal investigations that may arise
-the user is responsible.
+the user is responsible..
 ```
 
 

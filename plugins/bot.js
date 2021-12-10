@@ -27,7 +27,7 @@ var afnplk = '```⏱ Time :' + plk_say + '```\n\n ```📅 Date :' + plk_here + '
       ]
       
       const buttonMessage = {
-          contentText: 'AJUSER',
+          contentText: '╭───────────────╮\n│ ɴᴀᴍᴇ:🦋AJUSER🦋\n | *DEVELOPER* :ᴀᴊᴜ \n│ *TIME* : ```' + plk_here + '```  \n│\n│ *CREDITS* ```AJU``` \n│ \n╰───────────────╯',
           footerText: '©ᴀᴊᴜ™',
           buttons: buttons,
           headerType: 1
